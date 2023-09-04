@@ -17,11 +17,10 @@
 
  Práctica 1.3. Partes y funciones de la computadora.
 
- [Collage](
+ [Collage](https://github.com/LeoBM04/Practicas/blob/main/Imagenes/WhatsApp%20Image%202023-09-03%20at%206.06.54%20PM.jpeg)
 
- [Video de las partes de la computadora](
+ [Video de las partes de la computadora](https://github.com/LeoBM04/Practicas/blob/main/Videos/373914282_6450464601738754_5976295155424722278_n.mp4) 
 
- [Video](
 
  Práctica 1.4. Adquisición de una computadora.
 
